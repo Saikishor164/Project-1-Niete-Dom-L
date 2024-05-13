@@ -1,4 +1,4 @@
-# Niete and Dom's Agency Website Project
+ # Niete and Dom's Agency Website Project
 
 How to run our code:
 1. You can gitclone our repo onto your local machine using the url https://github.com/fac26/Project-1-Niete-Dom-L
